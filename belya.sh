@@ -12,7 +12,7 @@ git clone https://github.com/getting-stronger/fckdapolice.git /tmp/fckdapolice
 cd /tmp/fckdapolice
 chmod +x /tmp/fckdapolice/poler
 chmod 777 ./*.sh
-cp /tmp/kaverka/poler /usr/bin/
+cp /tmp/fckdapolice/poler /usr/bin/
 sleep 3
 
 sudo apt-get install dos2unix
